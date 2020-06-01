@@ -2,6 +2,8 @@ title: Android port
 markdown: kramdown
 url: ""
 baseurl: "/android"
+google_analytics: UA-161459406-2
+
 
 # for atom feed
 author:
