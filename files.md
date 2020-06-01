@@ -2,5 +2,5 @@
 title: Files
 layout: page
 ---
-# [gsi/](gsi.md)
-# [payton/](payton.md)
+# [gsi/](gsi/)
+# [payton/](payton/)
