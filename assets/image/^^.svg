@@ -2,14 +2,14 @@
   <defs>
     <style>
       .ae7959e6-407f-4225-8ba9-8d7ab2a7fe56 {
-        fill: #000;
-        stroke: #fff;
+        fill: #fff;
+        stroke: #000;
         stroke-miterlimit: 10;
         stroke-width: 15px;
         @media (prefers-color-scheme: dark) {
         path {
-            fill: #fff;
-            stroke: #000;
+            fill: #000;
+            stroke: #fff;
         }
       }
     </style>
