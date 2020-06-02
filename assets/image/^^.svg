@@ -1,0 +1,18 @@
+<svg id="be3a0966-90f5-4774-8150-c4481fe558c7" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 319.9 139.4">
+  <defs>
+    <style>
+      .ae7959e6-407f-4225-8ba9-8d7ab2a7fe56 {
+        fill: #000;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+        @media (prefers-color-scheme: dark) {
+        path {
+            fill: #fff;
+        }
+      }
+    </style>
+  </defs>
+  <path class="ae7959e6-407f-4225-8ba9-8d7ab2a7fe56" d="M99,261l47.8-116.4L193.2,261" transform="translate(-92.1 -124.4)"/>
+  <path class="ae7959e6-407f-4225-8ba9-8d7ab2a7fe56" d="M310.8,260.9l47.8-116.5L405,260.9" transform="translate(-92.1 -124.4)"/>
+</svg>
